@@ -13,7 +13,7 @@ var, let or const (or do nothing)
 - Which characters is a JavaScript variable allowed to begin with?
 if using names, they can contain letters, digits, underscores, and dollar signs, but names must start with a letter. they can also begin with $ or _. They are case sensitive and cannot use JS keywords.
 - What are quotation marks used for in JavaScript?
-they are for defining strings
+they are for defining strings.
 - What is the purpose of strings in JavaScript?
 they are used for storing and manipulating text
 - What is the purpose of booleans in JavaScript?
